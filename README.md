@@ -1,4 +1,4 @@
-# global-cybersecurity-dashboard
+# Global-cybersecurity-dashboard
 This project presents an interactive Power BI dashboard analyzing global cybersecurity threats, highlighting attack trends, financial losses, and industry- and country-wise impact.
 <img width="851" height="494" alt="image" src="https://github.com/user-attachments/assets/1d45f5d3-ab17-4c6e-b7bc-eeda6d97d6d8" />
 
